@@ -18,7 +18,8 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X?si=pyxnLHxOSCKjT8CBbOQUPg)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X?si=pyxnLHxOSCKjT8CBbOQUPg](https://open.spotify.com/embed/track/7kWFRZdedr2gtfE8JDumVZ?utm_source=generato))
+
 
 ---
 
