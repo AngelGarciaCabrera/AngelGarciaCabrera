@@ -57,7 +57,7 @@
   </tr>
 </table>
 
-<p align="right"><a href="https://portafolioag.arcodedominicana.com/#projects"><code>VER PROYECTOS ?</code></a></p>
+<p align="right"><a href="https://portafolioag.arcodedominicana.com/#projects"><code>VER PROYECTOS ↘</code></a></p>
 
 <img src="./assets/section-02-perfil.svg" width="100%" alt="02 — Perfil · Stack y enfoque" />
 
@@ -75,7 +75,7 @@ Desarrollador Full-Stack con más de 5 años creando soluciones para empresas y 
       <img src="https://img.shields.io/badge/CSS3-171310?style=for-the-badge&logo=css&logoColor=D6CDB3" alt="CSS3" />
       <img src="https://img.shields.io/badge/Tailwind-171310?style=for-the-badge&logo=tailwindcss&logoColor=D6CDB3" alt="Tailwind" />
       <img src="https://img.shields.io/badge/Bootstrap-171310?style=for-the-badge&logo=bootstrap&logoColor=D6CDB3" alt="Bootstrap" />
-      <img src="https://img.shields.io/badge/Figma_%E2%86%92_UI%2FUX-171310?style=for-the-badge&logo=figma&logoColor=D6CDB3" alt="Figma ? UI/UX" />
+      <img src="https://img.shields.io/badge/Figma_%E2%86%92_UI%2FUX-171310?style=for-the-badge&logo=figma&logoColor=D6CDB3" alt="Figma → UI/UX" />
       <img src="https://img.shields.io/badge/Webflow-171310?style=for-the-badge&logo=webflow&logoColor=D6CDB3" alt="Webflow" />
     </td>
     <td width="50%" valign="top">
