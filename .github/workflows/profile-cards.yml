@@ -1,0 +1,56 @@
+name: Actualizar tarjetas del perfil
+
+# Genera las tarjetas de estadísticas como SVG estáticos dentro del repo (carpeta profile/),
+# con la paleta del portafolio. Así el README no depende de servicios públicos que se caen.
+
+on:
+  schedule:
+    - cron: "17 5 * * *" # una vez al día
+  push:
+    paths:
+      - ".github/workflows/profile-cards.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    env:
+      # Para contar también repos privados: crea un PAT (scopes: repo, read:user),
+      # guárdalo como secreto PROFILE_TOKEN y se usará automáticamente.
+      CARDS_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Estadísticas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&locale=es&hide_border=false&border_radius=0&bg_color=D6CDB3&title_color=171310&text_color=171310&icon_color=496A39&ring_color=496A39&border_color=171310
+          path: profile/stats.svg
+          token: ${{ env.CARDS_TOKEN }}
+
+      - name: Lenguajes
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&locale=es&border_radius=0&bg_color=D6CDB3&title_color=171310&text_color=171310&border_color=171310
+          path: profile/top-langs.svg
+          token: ${{ env.CARDS_TOKEN }}
+
+      - name: Racha
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&locale=es&border_radius=0&disable_animations=true&card_width=840&background=D6CDB3&border=171310&stroke=171310&ring=496A39&fire=6A3E39&currStreakNum=171310&sideNums=171310&currStreakLabel=496A39&sideLabels=171310&dates=171310
+          path: profile/streak.svg
+          token: ${{ env.CARDS_TOKEN }}
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Actualizar tarjetas del perfil" || exit 0
+          git push
