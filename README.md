@@ -1,74 +1,144 @@
+<a href="https://portafolioag.arcodedominicana.com/">
+  <img src="./assets/header.svg" width="100%" alt="Angel Garcia — Full-Stack Developer · Santo Domingo, RD. Diseño y construyo productos digitales sólidos, claros y preparados para crecer, combinando pensamiento arquitectónico y ejecución full-stack. 5+ años de experiencia · Magna Cum Laude, ITLA 2024 · CEO & Co-Fundador de ARCODE Dominicana." />
+</a>
 
-# Hi there, I'm Angel Garcia <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<img src="./assets/marquee.svg" width="100%" alt="React.js · Next.js · TypeScript · C# ASP.NET · Clean Architecture · Node.js · SQL Server · Oracle · Azure · Docker · Firebase · Supabase · Python" />
 
-## I'm a  Front-end Software Developer  
+<p align="center">
+  <a href="https://portafolioag.arcodedominicana.com/"><img src="https://img.shields.io/badge/PORTAFOLIO_%E2%86%97-496A39?style=for-the-badge" alt="Portafolio" /></a>
+  <a href="mailto:angelgarciacabrera11@gmail.com"><img src="https://img.shields.io/badge/CORREO-171310?style=for-the-badge&logo=gmail&logoColor=D6CDB3" alt="Correo" /></a>
+  <a href="https://instagram.com/angel_fgc"><img src="https://img.shields.io/badge/INSTAGRAM-171310?style=for-the-badge&logo=instagram&logoColor=D6CDB3" alt="Instagram" /></a>
+</p>
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to  draw and vide games.
+<br />
 
----
+<img src="./assets/section-01-trabajo.svg" width="100%" alt="01 — Trabajo · 05 proyectos" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angel_fgc) 
+<table>
+  <tr>
+    <td width="72" align="center"><h3>01</h3></td>
+    <td>
+      <strong>ARCODE DOMINICANA</strong> &nbsp;·&nbsp; <code>EMPRESA PROPIA</code> <code>CONCLUIDO</code><br />
+      Casa de software que fundé y dirijo: sitios, aplicaciones web, tiendas en línea y sistemas a medida para empresas dominicanas. Lideré producto, identidad y desarrollo del sitio, incluyendo un cotizador automático que estima el costo de un proyecto en minutos.<br />
+      <code>REACT.JS</code> <code>PRODUCTO</code> <code>UI/UX</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><h3>02</h3></td>
+    <td>
+      <strong>MOVIA — MOVIES &amp; SERIES</strong> &nbsp;·&nbsp; <code>CONCLUIDO</code><br />
+      Plataforma social de streaming: películas y series en español e inglés con subtítulos, watch parties con amigos, «ver más tarde» e historial, y grupos de contenido públicos o privados con permisos por miembro.<br />
+      <code>REACT.JS</code> <code>EXPRESS.JS</code> <code>MYSQL</code> <code>WATCH PARTY</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><h3>03</h3></td>
+    <td>
+      <strong>SISTEMA DE GESTIÓN DE INCIDENCIAS</strong> &nbsp;·&nbsp; <code>CONCLUIDO</code><br />
+      Gestión de incidencias a nivel empresarial, con control de usuarios, reportes y notificaciones. Modo claro y oscuro.<br />
+      <code>REACT.JS</code> <code>C# ASP.NET</code> <code>CLEAN ARCHITECTURE</code> <code>SQL SERVER</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><h3>04</h3></td>
+    <td>
+      <strong>«MUERTO DE HAMBRE» — GESTIÓN DE RESTAURANTE</strong> &nbsp;·&nbsp; <code>EN DESARROLLO</code><br />
+      Sistema completo de restaurante con gestión de menú, pedidos y usuarios.<br />
+      <code>NODE.JS</code> <code>EXPRESS</code> <code>REACT.JS</code> <code>AXIOS</code> <code>REPOSITORY</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><h3>05</h3></td>
+    <td>
+      <strong>«BETSENSE» — PREDICCIÓN DEPORTIVA CON IA</strong> &nbsp;·&nbsp; <code>CONCLUIDO</code><br />
+      Predicción de resultados deportivos con IA, análisis de datos de distintas APIs y consultas en internet, con control de usuarios e historial de predicciones.<br />
+      <code>REACT.JS</code> <code>C# ASP.NET</code> <code>CLEAN ARCHITECTURE</code> <code>SQL SERVER</code>
+    </td>
+  </tr>
+</table>
 
----
+<p align="right"><a href="https://portafolioag.arcodedominicana.com/#projects"><code>VER PROYECTOS ?</code></a></p>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img src="./assets/section-02-perfil.svg" width="100%" alt="02 — Perfil · Stack y enfoque" />
 
-### Spotify Playing 🎧
+Desarrollador Full-Stack con más de 5 años creando soluciones para empresas y organizaciones del sector salud. CEO y co-fundador de **ARCODE Dominicana**, donde dirijo un equipo que construye software a medida. Graduado Magna Cum Laude del ITLA; combino pensamiento de producto, arquitectura limpia y ejecución técnica.
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X?si=pyxnLHxOSCKjT8CBbOQUPg](https://open.spotify.com/embed/track/7kWFRZdedr2gtfE8JDumVZ?utm_source=generato))
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>FRONTEND</strong> &nbsp;<code>07</code><br /><br />
+      <img src="https://img.shields.io/badge/React.js-171310?style=for-the-badge&logo=react&logoColor=D6CDB3" alt="React.js" />
+      <img src="https://img.shields.io/badge/Next.js-171310?style=for-the-badge&logo=nextdotjs&logoColor=D6CDB3" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-171310?style=for-the-badge&logo=typescript&logoColor=D6CDB3" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-171310?style=for-the-badge&logo=javascript&logoColor=D6CDB3" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML5-171310?style=for-the-badge&logo=html5&logoColor=D6CDB3" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-171310?style=for-the-badge&logo=css&logoColor=D6CDB3" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Tailwind-171310?style=for-the-badge&logo=tailwindcss&logoColor=D6CDB3" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/Bootstrap-171310?style=for-the-badge&logo=bootstrap&logoColor=D6CDB3" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/Figma_%E2%86%92_UI%2FUX-171310?style=for-the-badge&logo=figma&logoColor=D6CDB3" alt="Figma ? UI/UX" />
+      <img src="https://img.shields.io/badge/Webflow-171310?style=for-the-badge&logo=webflow&logoColor=D6CDB3" alt="Webflow" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>BACKEND</strong> &nbsp;<code>06</code><br /><br />
+      <img src="https://img.shields.io/badge/C%23-171310?style=for-the-badge" alt="C#" />
+      <img src="https://img.shields.io/badge/ASP.NET_Core-171310?style=for-the-badge&logo=dotnet&logoColor=D6CDB3" alt="ASP.NET Core" />
+      <img src="https://img.shields.io/badge/Node.js-171310?style=for-the-badge&logo=nodedotjs&logoColor=D6CDB3" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-171310?style=for-the-badge&logo=express&logoColor=D6CDB3" alt="Express" />
+      <img src="https://img.shields.io/badge/Clean_Architecture-171310?style=for-the-badge" alt="Clean Architecture" />
+      <img src="https://img.shields.io/badge/Repository_%2F_Singleton-171310?style=for-the-badge" alt="Repository / Singleton" />
+      <img src="https://img.shields.io/badge/REST_APIs-171310?style=for-the-badge" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/MediatR-171310?style=for-the-badge" alt="MediatR" />
+      <img src="https://img.shields.io/badge/Python-171310?style=for-the-badge&logo=python&logoColor=D6CDB3" alt="Python" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>DATOS &amp; CLOUD</strong> &nbsp;<code>07</code><br /><br />
+      <img src="https://img.shields.io/badge/SQL_Server-171310?style=for-the-badge" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/Oracle-171310?style=for-the-badge" alt="Oracle" />
+      <img src="https://img.shields.io/badge/Firebase-171310?style=for-the-badge&logo=firebase&logoColor=D6CDB3" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Supabase-171310?style=for-the-badge&logo=supabase&logoColor=D6CDB3" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Azure-171310?style=for-the-badge" alt="Azure" />
+      <img src="https://img.shields.io/badge/Docker_%C2%B7_Compose_%C2%B7_Swarm-171310?style=for-the-badge&logo=docker&logoColor=D6CDB3" alt="Docker · Compose · Swarm" />
+      <img src="https://img.shields.io/badge/Git_%C2%B7_GitHub-171310?style=for-the-badge&logo=github&logoColor=D6CDB3" alt="Git · GitHub" />
+    </td>
+    <td valign="top">
+      <strong>LIDERAZGO</strong> &nbsp;<code>06</code><br /><br />
+      Liderazgo de equipos<br />
+      Levantamiento de requerimientos<br />
+      Metodologías ágiles<br />
+      CEO de ARCODE Dominicana<br />
+      Español nativo · Inglés avanzado
+    </td>
+  </tr>
+</table>
 
+<img src="./assets/section-03-trayectoria.svg" width="100%" alt="03 — Trayectoria · Hitos y certificaciones" />
 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AngelGarciaCabrera&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AngelGarciaCabrera&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelGarciaCabrera&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| Período | Hito | Detalle |
+| :-- | :-- | :-- |
+| <code>DIC&nbsp;2024&nbsp;—&nbsp;HOY</code> | **ARCODE DOMINICANA**<br />CEO & Co-Fundador · Desarrollador Full Stack | Dirijo la empresa y el desarrollo: React.js, C# ASP.NET con Clean Architecture, APIs REST y optimización en SQL Server. |
+| <code>2021&nbsp;—&nbsp;2024</code> | **ITLA**<br />Técnico Superior en Desarrollo de Software | Graduado **Magna Cum Laude** del Instituto Tecnológico de Las Américas. |
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AngelGarciaCabrera&limit=5&theme=dark&combine_all_yearly_contributions=true)
+| # | Certificación | Emisor | Estado |
+| :-- | :-- | :-- | :-- |
+| `01` | **IT Essentials — Fundamentos del Computador** | Cisco Networking Academy @ ITLA | `MAY 2021` |
+| `02` | **The Complete Full-Stack Web Dev Bootcamp** | Udemy · 61.5 h | `JUL 2025` |
+| `03` | **Complete Web Design: Figma to Webflow** | Udemy · 21.5 h | `EN CURSO` |
+| `04` | **Docker de Cero a Experto: Compose & Swarm** | Udemy · 22 h | `EN CURSO` |
 
----
-[![](https://visitcount.itsvg.in/api?id=AngelGarciaCabrera&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="./assets/section-04-github.svg" width="100%" alt="04 — GitHub · Actividad" />
 
+<p align="center">
+  <img src="./profile/stats.svg" height="190" alt="Estadísticas de GitHub de Angel Garcia" />
+  <img src="./profile/top-langs.svg" height="190" alt="Lenguajes más usados" />
+</p>
+<p align="center">
+  <img src="./profile/streak.svg" width="100%" alt="Racha de contribuciones" />
+</p>
 
+> Fuera del código: dibujo, anime y videojuegos. Próxima meta: aprender japonés.
 
----
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
-
----
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Angel Garcia'
-	current_edu = "Software Developer"
-	hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Play Video Games'
-			]
-	
-	def getCity():
-		return SantoDomingo_RepublicaDominicana()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreatemyownCompanny()
-		;)
-	
- ```
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+<a href="mailto:angelgarciacabrera11@gmail.com">
+  <img src="./assets/footer.svg" width="100%" alt="05 — ¿Construimos algo sólido? Hablemos: angelgarciacabrera11@gmail.com" />
+</a>
